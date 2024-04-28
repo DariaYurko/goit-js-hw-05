@@ -1,5 +1,5 @@
 /**
- * Return an array of all users from the users array who have a friend with the name friendName.
+ * Returns an array of all users from the users array who have a friend with the name friendName.
  * @param {Array} users
  * @param {String} friendName
  * @returns {Array}

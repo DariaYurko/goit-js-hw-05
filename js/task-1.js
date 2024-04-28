@@ -1,5 +1,5 @@
 /**
- * Return an array of names of all users from the users array.
+ * Returns an array of names of all users from the users array.
  * @param {Array} users
  * @returns {Array}
  */
